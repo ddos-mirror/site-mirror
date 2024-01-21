@@ -1,1 +1,1 @@
-# site-mirror
+# ddos-mirror
